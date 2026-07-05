@@ -1,0 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0e0d0c;
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+  max-width: none;
+  text-align: left;
+}
